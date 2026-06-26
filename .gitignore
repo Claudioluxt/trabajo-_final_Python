@@ -1,0 +1,28 @@
+# ── Base de datos SQLite ──────────────────────────────────────────────────────
+# Se genera automáticamente al ejecutar main.py, no debe subirse al repositorio
+inventario.db
+
+# ── Caché de Python ───────────────────────────────────────────────────────────
+# Carpeta generada automáticamente por Python al importar módulos propios
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Entornos virtuales ────────────────────────────────────────────────────────
+venv/
+env/
+.env/
+
+# ── Archivos de sistema ───────────────────────────────────────────────────────
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── Archivos temporales de prueba ─────────────────────────────────────────────
+test.py
